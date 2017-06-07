@@ -1,2 +1,0 @@
-# YourCloud
-awesome-cloud-service
